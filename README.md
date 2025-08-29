@@ -17,6 +17,6 @@ Why this repo ?
 -> Array<br>
 -> Stack<br>
 -> Queue<br>
-with contiues progress in each 
-
+I will keep updating this repo as I continue practicing new problems.
+ 
 ## Language used : C , Cpp
