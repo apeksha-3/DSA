@@ -14,9 +14,9 @@ Why this repo ?
 
 
 ## Current Folders 
--> Array\n
--> Stack\n
--> Queue\n
+-> Array<br>
+-> Stack<br>
+-> Queue<br>
 with contiues progress in each 
 
 ## Language used : C , Cpp
