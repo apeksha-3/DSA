@@ -20,3 +20,12 @@ Why this repo ?
 I will keep updating this repo as I continue practicing new problems.
  
 ## Language used : C , Cpp
+
+## Method of solving problem 
+1. Brute Force
+2. Better
+3. Optimal
+
+This format helps me:  
+- Compare different approaches.  
+- Understand time and space complexity.  
